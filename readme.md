@@ -7,3 +7,7 @@ Users can also reset all the current data (e.g., to keep track of their monthly 
 
 - React Native + Expo
 - Async Storage for data persistance
+
+## Screenshots
+
+![Time Tracker Screenshot](assets/images/Screenshot01.png)
